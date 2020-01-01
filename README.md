@@ -9,4 +9,6 @@ Today I Learned
 
 * Class
 
+* 뭐라는지모르게싸;
+
 ## Algorithm
